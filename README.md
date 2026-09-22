@@ -1,3 +1,4 @@
-# 🍉 Console-GoreBox-Mod
+# 📺 Consol -GoreBox Mod
 *Старый мод на консоль GoreBox.
 Для активации мода изпользуйте команду* ***!console***
+**Щач мод устрел ведь Феликс добавил команду* ***/openconsole***
